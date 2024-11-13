@@ -1,5 +1,6 @@
+// digunakan untuk contoh config globals
 const CONFIG = {
-  KEY: 'cefcef6ac2a293d7009a9c65164fcc4d',
+  KEY: 'MOVIE-DB-API-KEY',
   BASE_URL: 'https://api.themoviedb.org/3/',
   BASE_IMAGE_URL: 'https://image.tmdb.org/t/p/w500/',
   DEFAULT_LANGUAGE: 'en-us',
